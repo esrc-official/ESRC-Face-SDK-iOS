@@ -31,7 +31,7 @@ The minimum requirements to use our iOS sample are:
 |Face Detection| Detect a single face using a front camera on mobile. |
 |Facial Landmark Detection| Detect x and y coordinates of 68 facial landmarks in 2D space from the detected face. |
 |Facial Action Unit Analysis| Extract centroid, area, theta and R distance of each 39 facial action unit from the detected 68 facial landmarks based on Facial Action Coding System determined by Paul Ekman. |
-|Facial Expression Recognition| Recognize 7 facial expressions consist of neutral, happiness, sad-ness, surprise, anger, disgust and fear based on 6 basic emotions. |
+|Facial Expression Recognition| Recognize 7 facial expressions consist of neutral, happiness, sadness, surprise, anger, disgust and fear based on 6 basic emotions. |
 
 ### Try the sample app
 
