@@ -18,31 +18,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		a4UscQvJdRU7STzmB78w8ARVdRw=
+		MNiQ9QOQz9aOxSoxjcs21hETuY8=
 		</data>
 		<key>Modules/ESRC_Face_SDK_iOS.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		fJERi/gIZV/K2X5pgkmZJqwZuYU=
+		tYZmguXPdDO6S2qbJb1Rc9QZhDE=
 		</data>
 		<key>Modules/ESRC_Face_SDK_iOS.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		fJERi/gIZV/K2X5pgkmZJqwZuYU=
+		tYZmguXPdDO6S2qbJb1Rc9QZhDE=
 		</data>
 		<key>Modules/ESRC_Face_SDK_iOS.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		SuB2cJWJ+aOi1n760REHzttd4yU=
+		nvCs7fAXPl8B2N179X3CIVGqOY4=
 		</data>
 		<key>Modules/ESRC_Face_SDK_iOS.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		Mwkg9jT8yu2cnhS6hUsHeBd71cE=
+		elpc+NTMDvxlgMJ24NUoG2rwTC4=
 		</data>
 		<key>Modules/ESRC_Face_SDK_iOS.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		SuB2cJWJ+aOi1n760REHzttd4yU=
+		nvCs7fAXPl8B2N179X3CIVGqOY4=
 		</data>
 		<key>Modules/ESRC_Face_SDK_iOS.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		Mwkg9jT8yu2cnhS6hUsHeBd71cE=
+		elpc+NTMDvxlgMJ24NUoG2rwTC4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -92,42 +92,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			B0lV7RGmce2Ggi6z1WdlaDzot9C+UOWXcrMpT49lrbo=
+			JDF1v2Id3mnD331t56sBWlhctmTkDiMuuVCBv+RaavY=
 			</data>
 		</dict>
 		<key>Modules/ESRC_Face_SDK_iOS.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			B0lV7RGmce2Ggi6z1WdlaDzot9C+UOWXcrMpT49lrbo=
+			JDF1v2Id3mnD331t56sBWlhctmTkDiMuuVCBv+RaavY=
 			</data>
 		</dict>
 		<key>Modules/ESRC_Face_SDK_iOS.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ucrfsufJ7MZIQf56UVWKIFkQYUBYTQsKlDUBHXlKR5o=
+			FK54a4jqrwalmDUgNimkPr/PRR9FjyjrZRVWk9WfNFU=
 			</data>
 		</dict>
 		<key>Modules/ESRC_Face_SDK_iOS.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eMZF0/tPMplgIId2NojcVlfZClmCNclFCLxiz+liX0c=
+			9ENFEWzQG1aYrFVUY8Dhd3P3sTCCM5z8AwzSMacW+9c=
 			</data>
 		</dict>
 		<key>Modules/ESRC_Face_SDK_iOS.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ucrfsufJ7MZIQf56UVWKIFkQYUBYTQsKlDUBHXlKR5o=
+			FK54a4jqrwalmDUgNimkPr/PRR9FjyjrZRVWk9WfNFU=
 			</data>
 		</dict>
 		<key>Modules/ESRC_Face_SDK_iOS.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eMZF0/tPMplgIId2NojcVlfZClmCNclFCLxiz+liX0c=
+			9ENFEWzQG1aYrFVUY8Dhd3P3sTCCM5z8AwzSMacW+9c=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
