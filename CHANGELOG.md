@@ -8,3 +8,6 @@
 
 ### 2.4.2 (January 11, 2022)
  - Improve validation of license.
+
+### 2.4.3 (January 12, 2022)
+ - Disable bitcode.
