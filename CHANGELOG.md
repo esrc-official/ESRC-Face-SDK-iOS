@@ -11,3 +11,7 @@
 
 ### 2.4.3 (January 12, 2022)
  - Disable bitcode.
+
+### 2.4.4 (March 28, 2022)
+ - Change facial expression recognition to basic facial expression recognition.
+ - Add valence facial expression recognition.
