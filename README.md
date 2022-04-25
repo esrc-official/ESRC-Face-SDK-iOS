@@ -32,7 +32,9 @@ The minimum requirements to use our iOS sample are:
 |Face Detection| Detect a single face using a front camera on mobile. |
 |Facial Landmark Detection| Detect x and y coordinates of 68 facial landmarks in 2D space from the detected face. |
 |Facial Action Unit Analysis| Extract centroid, area, theta and R distance of each 39 facial action unit from the detected 68 facial landmarks based on Facial Action Coding System determined by Paul Ekman. |
-|Facial Expression Recognition| Recognize 7 facial expressions consist of neutral, happiness, sadness, surprise, anger, disgust and fear based on 6 basic emotions. |
+|Basic Facial Expression Recognition| Recognize 7 facial expressions consist of neutral, happiness, sadness, surprise, anger, disgust and fear based on 6 basic emotions. |
+|Valence Facial Expression Recognition| Recognize 3 facial expressions consist of neutral, positive and negative based on valence of two-dimensional emotion. |
+
 
 ### Try the sample app
 
@@ -101,7 +103,8 @@ ESRC.start(
         enableFace: true,  // Whether detect face or not.
         enableFacialLandmark: true,  // Whether detect facial landmark or not. If enableFace is false, it is also automatically set to false.
         enableFacialActionUnit: true,  // Whether analyze facial action unit or not. If enableFace or enableFacialLandmark is false, it is also automatically set to false.
-        enableFacialExpression: true),  // Whether recognize facial expression or not. If enableFace is false, it is also automatically set to false.
+        enableBasicFacialExpression: true,  // Whether recognize basic facial expression or not. If enableFace is false, it is also automatically set to false.
+        enableValenceFacialExpression: true),  // Whether recognize valence facial expression or not. If enableFace is false, it is also automatically set to false.
     handler: ESRCHandler() {
         func onDetectedFace(face: ESRCFace) {
             // The face is detected.
@@ -112,11 +115,11 @@ ESRC.start(
         }
     
         // Please implement other callback method of ESRCHandler interface.
-        func onNotDetectedFace() { … }
         func onAnalyzedMeasureEnv(measureEnv: ESRCMeasureEnv) { … }
         func onDetectedFacialLandmark(facialLandmark: ESRCFacialLandmark) { … }
         func onAnalyzedFacialActionUnit(facialActionUnit: ESRCFacialActionUnit) { … }
-        func onRecognizedFacialExpression(facialExpression: ESRCFacialExpression) { … }
+        func onRecognizedBasicFacialExpression(facialExpression: ESRCBasicFacialExpression) { … }
+        func onRecognizedValenceFacialExpression(facialExpression: ESRCValenceFacialExpression) { … }
 });
 ```
 

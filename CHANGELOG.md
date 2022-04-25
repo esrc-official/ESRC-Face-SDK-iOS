@@ -18,3 +18,8 @@
 
 ### 2.4.5 (April 07, 2022)
  - Improve API client.
+
+### 2.4.6 (April 21, 2022)
+ - Change some ESRCType class constant to class enum (basic facial expression and valence facial expression).
+ - Remove onNotDetectedFace callback method -> Add isDetect parameter in ESRCFace class.
+ - Add identification parameter in all ERCType class.
